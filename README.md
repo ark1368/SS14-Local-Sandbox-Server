@@ -14,10 +14,10 @@ A guide for setting up a SS14 Local Sandbox Server on Windows 11 x64.
 - [NanaZip](https://github.com/M2Team/NanaZip/releases/download/3.1.1080.0/NanaZip_3.1.1080.0.msixbundle)
 
 > [!NOTE]  
-> You can install .NET 9 Runtime through Winget: ``Winget install Microsoft.DotNet.Runtime.9``
+> You can install .NET 9 Runtime through Winget in PowerShell: ``Winget install Microsoft.DotNet.Runtime.9``
 
 > [!NOTE]  
-> You can install NanaZip through Winget: ``Winget install M2Team.NanaZip``
+> You can install NanaZip through Winget in PowerShell: ``Winget install M2Team.NanaZip``
 
 ## Installation Steps
 
